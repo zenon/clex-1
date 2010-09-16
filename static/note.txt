@@ -1,0 +1,2 @@
+This directory is a hack.
+(wrap-file "static") makes the compiler barf.
